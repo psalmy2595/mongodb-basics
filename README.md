@@ -1,4 +1,4 @@
-# mongodb-basics
+# crud-basics
 
 ![](screenshots/1.png)
 

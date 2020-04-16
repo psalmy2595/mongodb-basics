@@ -1,8 +1,8 @@
 {
-  "name": "mongodb-basics",
+  "name": "crud-basics",
   "version": "1.0.0",
-  "description": "connection to database",
-  "main": "mongo_db.js",
+  "description": "node crud basics",
+  "main": "findinterns.js",
   "dependencies": {
     "mongo": "^0.1.0",
     "mongodb": "^3.5.5"
@@ -13,8 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "psalmy2595"
+    "url": "git+https://github.com/psalmy2595/mongodb-basics.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psalmy2595/mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/psalmy2595/mongodb-basics#readme"
 }
